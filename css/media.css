@@ -1,0 +1,379 @@
+@media screen and (max-width: 1900px) {
+  .video-block .rates {
+    width: 70% !important; } }
+@media screen and (max-width: 1600px) {
+  body .pros .img-bg {
+    width: 100%;
+    float: none; }
+  body .pros .items-wrapper {
+    width: 90%;
+    left: 5%; } }
+@media screen and (max-width: 1470px) {
+  .video-block .rates {
+    width: 80% !important; } }
+@media screen and (max-width: 1300px) {
+  .video-wrap {
+    display: none; }
+
+  body .header-content .header-text {
+    margin: 20px; }
+    body .header-content .header-text .main-text {
+      font-size: 32px; }
+  body .btn {
+    margin: 50px 0 0 0; }
+  body .contacts {
+    margin-top: 0; }
+  body .con-wrap {
+    justify-content: flex-end; }
+  body .coop-photos {
+    height: auto; }
+    body .coop-photos .img {
+      display: none; }
+    body .coop-photos .coop-title {
+      position: static;
+      text-align: center;
+      max-width: 100%;
+      margin: auto;
+      transform: translateX(0);
+      padding-bottom: 20px; }
+  body .copy {
+    bottom: auto;
+    top: 350px; }
+  body .cooperation .right-block {
+    position: static;
+    float: none;
+    width: 100%;
+    height: auto;
+    padding: 20px 0; }
+    body .cooperation .right-block ul {
+      margin-left: 10%;
+      width: 60%; }
+  body .video-block {
+    width: auto;
+    height: auto;
+    background: none; }
+    body .video-block .rates {
+      width: 100% !important;
+      position: static;
+      transform: translateX(0); }
+      body .video-block .rates .blocks {
+        padding: 0 15px !important;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center; }
+        body .video-block .rates .blocks .partner {
+          margin-left: 0; }
+        body .video-block .rates .blocks .bezlim {
+          margin-left: 0; }
+  body .pros .items-wrapper {
+    width: 90%;
+    height: auto;
+    top: 50px;
+    padding: 10px;
+    box-sizing: border-box; }
+    body .pros .items-wrapper .img-items {
+      display: none; }
+  body .pros .pros-icons {
+    margin-top: 20px; }
+    body .pros .pros-icons ul {
+      padding-right: 0;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-around; }
+      body .pros .pros-icons ul li {
+        margin-top: 20px; }
+  body .main-header .header-cont {
+    justify-content: center; }
+  body .main-header .logo-cont {
+    margin-left: 15px; }
+  body .main-header .contacts-cont {
+    margin-top: 25px; }
+  body .main-header .main-title {
+    margin: 0 7px; }
+
+  .company-desc {
+    margin-top: 10px !important; } }
+@media screen and (max-width: 1100px) {
+  * {
+    transition: none !important;
+    animation: none; }
+
+  body .sec-form {
+    padding: 50px 0; }
+    body .sec-form .make-block {
+      width: 90%;
+      margin: auto;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center; }
+      body .sec-form .make-block .cont-1 {
+        margin-top: 20px; }
+      body .sec-form .make-block .cont-2 {
+        margin-top: 20px; }
+  body .header-content {
+    margin-top: 10px; }
+    body .header-content .header-man {
+      display: none; }
+    body .header-content .header-text {
+      padding: 40px;
+      max-width: 100%;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      align-items: center;
+      margin: 0; }
+    body .header-content .btn {
+      margin-top: 40px; }
+  body .pros .items-wrapper {
+    opacity: 1; }
+  body .services .block {
+    opacity: 1; }
+
+  .coop-photos {
+    opacity: 1 !important; } }
+@media screen and (max-width: 1055px) {
+  body .sec-form #form {
+    width: 90%;
+    margin: 50px auto;
+    justify-content: center; }
+    body .sec-form #form input {
+      width: 60%;
+      margin-bottom: 15px; }
+    body .sec-form #form .btn-form {
+      width: 60%; }
+  body .sec-form .make-block {
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; }
+    body .sec-form .make-block .cont-1 {
+      padding-right: 0;
+      text-align: center;
+      margin-top: 20px;
+      width: 100%;
+      border: none; }
+    body .sec-form .make-block .cont-2 {
+      padding-left: 0;
+      text-align: center;
+      margin-top: 20px;
+      width: 100%; }
+  body .block-rates {
+    padding: 50px 0 70px 0; }
+  body .services .contact-to-spec {
+    margin-top: 40px; }
+  body .services .container {
+    justify-content: center;
+    flex-wrap: wrap; }
+    body .services .container .inner-block {
+      width: 60%;
+      padding: 20px !important; }
+  body .section-title {
+    padding-bottom: 20px; } }
+@media screen and (max-width: 900px) {
+  body .contacts {
+    flex-wrap: wrap; }
+    body .contacts .con-block {
+      width: 100%;
+      padding: 20px; }
+    body .contacts .title-block {
+      width: 100%; }
+  body .con-wrap {
+    display: block; }
+  body .logo-foo {
+    display: none; }
+  body .copy {
+    top: 410px; }
+  body .services .container .inner-block {
+    width: 75%; }
+  body .video-block .rates .description {
+    padding-bottom: 20px; }
+  body .video-block .rates .blocks {
+    justify-content: center; }
+    body .video-block .rates .blocks .partner {
+      margin-bottom: 0; }
+      body .video-block .rates .blocks .partner .art-butt {
+        margin: 30px auto; }
+    body .video-block .rates .blocks article {
+      width: 60%;
+      margin-top: 15px; }
+  body .sec-form #form {
+    width: 90%;
+    margin: 50px auto;
+    justify-content: center; }
+    body .sec-form #form input {
+      width: 60%;
+      margin-bottom: 15px; }
+    body .sec-form #form .btn-form {
+      width: 60%; }
+  body .sec-form .make-block {
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; }
+    body .sec-form .make-block .cont-1 {
+      padding-right: 0;
+      text-align: center;
+      margin-top: 20px;
+      width: 100%;
+      border: none; }
+    body .sec-form .make-block .cont-2 {
+      padding-left: 0;
+      text-align: center;
+      margin-top: 20px;
+      width: 100%; }
+  body .pros .items-wrapper {
+    opacity: 1; }
+  body .pros .img-bg {
+    height: 1350px; }
+  body .pros .quote {
+    width: 430px; }
+  body .services .block {
+    opacity: 1; }
+  body .main-header .logo-cont {
+    margin-top: -10px; }
+  body .main-header .main-title {
+    margin: 0 12px; }
+  body .service-photo .text-block {
+    width: 90%;
+    padding: 10px;
+    box-sizing: border-box; } }
+@media screen and (max-width: 700px) {
+  body .modal-window {
+    width: 90%;
+    padding: 20px 10px; }
+    body .modal-window .modal-title {
+      font-size: 28px;
+      padding-top: 25px; }
+    body .modal-window .modal-form div {
+      width: 95%;
+      display: flex;
+      justify-content: flex-end; }
+      body .modal-window .modal-form div input {
+        width: 80%;
+        padding: 10px; }
+    body .modal-window .modal-form .inp-name label {
+      left: 30px; }
+    body .modal-window .modal-form .inp-email label {
+      left: 20px; }
+    body .modal-window .modal-form .inp-tel label {
+      left: 0px; }
+    body .modal-window .modal-form .mistake {
+      text-align: center;
+      margin: 3px;
+      font-size: 14px; }
+    body .modal-window .modal-form button {
+      width: 95%;
+      margin-top: 0px; }
+  body .success-modal {
+    width: 90%;
+    padding: 20px 10px; }
+    body .success-modal .modal-title {
+      font-size: 28px; }
+    body .success-modal button {
+      width: 90%;
+      margin-top: 0; }
+  body .video-block .rates .blocks article {
+    width: 80%; }
+  body .service-photo .text-block {
+    padding: 20px 40px;
+    text-align: center; }
+  body .sec-form #form input {
+    width: 75%; }
+  body .sec-form #form .btn-form {
+    width: 75%; }
+  body .services .container .inner-block {
+    width: 85%; }
+    body .services .container .inner-block .title {
+      font-size: 22px; }
+  body .header-content .header-text {
+    padding: 15px 5px; }
+    body .header-content .header-text .main-text {
+      font-size: 32px; } }
+@media screen and (max-width: 500px) {
+  body .modal-window {
+    width: 95%;
+    padding: 10px 5px; }
+    body .modal-window .modal-title {
+      font-size: 20px;
+      padding-top: 10px; }
+    body .modal-window .modal-form div:first-child {
+      margin-top: 15px; }
+    body .modal-window .modal-form div input {
+      width: 75%;
+      padding: 8px; }
+    body .modal-window .modal-form .mistake {
+      text-align: center;
+      margin: 3px;
+      font-size: 10px; }
+    body .modal-window .modal-form button {
+      width: 95%;
+      margin-top: 0px;
+      padding: 10px 15px; }
+    body .modal-window .modal-desc {
+      line-height: 1;
+      padding-top: 10px; }
+  body .section-title {
+    font-size: 34px; }
+  body .video-block .rates .blocks article {
+    width: 95%; }
+  body .cooperation .right-block ul {
+    width: 80%; }
+  body .sec-form #form input {
+    width: 95%; }
+  body .sec-form #form .btn-form {
+    width: 95%;
+    margin-top: 20px;
+    font-size: 18px; }
+  body .container .inner-block {
+    width: 90%; }
+  body .pros .img-bg {
+    display: none; }
+  body .pros .items-wrapper {
+    width: 90%;
+    height: auto;
+    position: static;
+    margin-left: 5%; }
+    body .pros .items-wrapper .content {
+      padding: 20px 0; }
+    body .pros .items-wrapper .question {
+      font-size: 30px; }
+    body .pros .items-wrapper .text {
+      font-size: 18px; }
+    body .pros .items-wrapper .img-items {
+      display: none; }
+  body .pros .pros-icons {
+    margin-top: 20px; }
+    body .pros .pros-icons ul {
+      padding: 0 5px;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-around; }
+      body .pros .pros-icons ul li {
+        margin-top: 20px; }
+  body .main-header .contacts-cont {
+    display: flex; }
+  body .main-header .main-title {
+    text-align: center; }
+    body .main-header .main-title h1 {
+      font-size: 32px;
+      text-align: center;
+      padding-top: 15px; }
+  body .btn {
+    padding: 10px 15px; }
+
+  body .services .container .inner-block .title {
+    padding-top: 15px;
+    font-size: 18px; }
+  body .copy {
+    top: 440px; } }
+@media screen and (max-width: 360px) {
+  body .copy {
+    top: 460px; }
+  body .modal-window .modal-form div input {
+    width: 68% !important; } }
+
+/*# sourceMappingURL=media.css.map */
